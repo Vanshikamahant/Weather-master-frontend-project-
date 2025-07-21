@@ -45,4 +45,20 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 ---
 
 ## 📂 Folder Structure
+weather-app/
+│
+├── index.html                # Main HTML file
+├── favicon.png               # Browser tab icon
+├── README.md                 # Project documentation
+│
+├── assets/
+    ├── css/                  # Stylesheets
+    │   └── (your CSS files here)
+    ├── js/                   # JavaScript files
+    │   ├── ajaxScript.js     # AJAX & API logic
+    │   └── jquery.min.js     # jQuery library (optional)
+    └── stuff/                # Extra assets and data
+        ├── API url.txt       # API endpoint reference
+        ├── cities.json       # Local city data
+        └── logo.png          # Logo image
 
